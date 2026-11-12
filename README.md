@@ -50,7 +50,7 @@ Generated databases and exports are created locally inside `data/` and are exclu
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Nid1Korabu/employee-lifecycle-management-console.git
 cd employee_lifecycle_console
 ```
 
